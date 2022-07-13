@@ -8,4 +8,4 @@ The instructor's name is Scott Dossey
 
 * Test student 1
 
-*Alec Nicely
+* Alec Nicely
